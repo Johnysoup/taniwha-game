@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taniwha-game/static/css/main.6e71eedf.css",
+    "main.js": "/taniwha-game/static/js/main.dc462b2c.js",
+    "index.html": "/taniwha-game/index.html",
+    "main.6e71eedf.css.map": "/taniwha-game/static/css/main.6e71eedf.css.map",
+    "main.dc462b2c.js.map": "/taniwha-game/static/js/main.dc462b2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e71eedf.css",
+    "static/js/main.dc462b2c.js"
+  ]
+}
